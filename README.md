@@ -1,0 +1,1 @@
+# synology-reporting-app-release
